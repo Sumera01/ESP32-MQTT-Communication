@@ -1,6 +1,6 @@
 # ESP32 MQTT Communication
 
-This repository contains the implementation of wireless communication between two ESP32 IoT devices using the MQTT protocol, as part of Assignment 8 (completed on November 4, 2025).
+This repository contains the implementation of wireless communication between two ESP32 IoT devices using the MQTT protocol, (completed on November 4, 2025).
 
 ## Objective
 Demonstrate wireless communication where one ESP32 acts as a publisher sending messages, and the other acts as a subscriber receiving those messages via a public MQTT broker.
@@ -35,4 +35,4 @@ Check the `output_images/` folder for Serial Monitor outputs.
 ## Conclusion
 This experiment successfully demonstrated MQTT-based wireless IoT communication, showcasing its efficiency for real-time applications.
 
-Author: Sumera Sameer Shaikh (Roll No. B_76)
+Author: Sumera Sameer Shaikh 
