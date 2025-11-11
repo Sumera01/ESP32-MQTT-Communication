@@ -43,6 +43,7 @@ Publisher (ESP32 #1) → MQTT Broker → Subscriber (ESP32 #2)
 
 ## 🧠 Folder Structure
 
+```
 ESP32-MQTT-Communication/
 │
 ├── publisher.ino           # Code for Publisher ESP32
@@ -52,7 +53,7 @@ ESP32-MQTT-Communication/
 ├── output_images/          # Serial Monitor output screenshots
 │
 └── README.md               # Project documentation
-
+```
 
 ---
 
@@ -101,7 +102,6 @@ Message received: Hello from Publisher (count: 1)
 
 
 ## 📷 Visual Setup
-📁 `setup_images/` → Circuit and connection setup  
 📁 `output_images/` → Communication proof via Serial Monitor
 
 ---
